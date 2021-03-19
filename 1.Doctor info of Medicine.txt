@@ -1,0 +1,31 @@
+      1.Prof. Dr. Khan Abul Kalam Azad
+        MBBS (DMC), FCPS (Med), MD (Internal Med), FACP (USA)
+        Medicine Specialist
+        Visiting Hour: 5pm to 9pm (Closed: Friday)
+        Room No: 101
+
+      2.Dr. Md. Abdul Halim
+        MBBS, MD (USA), MD (Canada)
+        Internal Medicine Specialist
+        Visiting Hour: 5pm to 10pm (Closed: Friday & Saturday)
+        Room No: 102
+
+      3.Dr. Md. Ziaur Rahman
+        MBBS, BCS (Health), PGT, (Med), FCPS, MD (Nephrology)
+        Medicine Specialist
+        Visiting Hour: 5pm to 10pm (Closed: Friday & Saturday)
+        Room No: 103
+
+      4.Dr. Md. Safiul Islam
+        MBBS, BCS (Health), FCPS, FCCP
+        Medicine Specialist
+        Visiting Hour: 10am to 5pm (Closed: Friday & Saturday)
+        Room No: 104
+
+      5.Prof. Dr. Md. Hyder Ali
+        MBBS, FCPS (Medicine)
+        Medicine Specialist
+        Visiting Hour: 10am to 5pm (Closed: Friday & Saturday)
+        Room No: 105
+
+

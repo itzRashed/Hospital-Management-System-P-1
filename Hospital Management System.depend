@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615827705 source:e:\c program\hospital management system\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1615827705 source:c:\users\muhai\onedrive\desktop\hospital management system\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+

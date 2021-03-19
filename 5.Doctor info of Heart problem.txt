@@ -1,0 +1,30 @@
+      1.Prof. Dr. M Touhidul Haque
+        MBBS, MS (Cardiology)
+        Cardiology Specialist
+        Visiting Hour: 6pm to 11pm (Closed: Friday)
+        Room No: 501
+
+      2.Prof. Dr. Toufiqur Rahman Faruque
+        MBBS, MD (Cardiology), FCPS (Medicine), FACC (USA), FESC (EU)
+        Cardiology Specialist
+        Visiting Hour: 6pm to 11pm (Closed: Saturday)
+        Room No: 502
+
+      3.Prof. Dr. Md. Mohsin Hossain
+        MBBS, MD (Internal Medicine), FCPS (Cardiology)
+        Cardiology & Medicine Specialist
+        Visiting Hour: 6pm to 11pm (Closed: Friday)
+        Room No: 503
+
+      4.Dr. Nurun Nahar Fatema Begum
+        MBBS, FCPS (PED), FRCP (EDIN), FACC (USA), FSCAI (USA)
+        Pediatrics Cardiologist
+        Visting Hour: 6pm to 11pm (Closed: Saturday)
+        Room No: 504
+
+      5.Prof. Dr. M Nazrul Islam
+        MBBS, FCPS, FRCP (Edin), FCCP, FACC, FESC
+        Cardiology Specialist
+        Visting Hour: 6pm to 11pm (Closed: Saturday)
+        Room No: 505
+

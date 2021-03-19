@@ -1,0 +1,19 @@
+                                                            
+                                                                     ############# DOCTOR'S DEPARTMENT #############
+
+
+
+
+
+
+             1.Medicine
+
+             2.Cancer
+
+             3.Thyroid
+
+             4.Diabetes
+
+             5.Cardiology
+
+             6.Back

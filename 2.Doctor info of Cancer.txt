@@ -1,0 +1,31 @@
+      1.Dr. AFM Kamal Uddin
+        MBBS, DTCD, MD (Radiation Oncology)
+        Radiation Oncologist
+        Visiting Hour: 6pm to 10pm (Closed: Saturday)
+        Room No: 201
+
+      2.Prof. Dr. Sahana Parvin
+        MBBS, DGO, FCPS (Gyne & Obs)
+        Gyne Oncology Specialist
+        Visiting Hour: 6pm to 10pm (Closed: Friday)
+        Room No: 202
+
+      3.Prof. Dr. Md. Moarraf Hossen
+        MBBS, DMRT, FCPS (Radiotherapy)
+        Cancer Specialist
+        Visiting Hour: 6pm to 10pm (Closed: Friday)
+        Room No: 203
+
+      4.Prof. Dr. Swapan Bandyopadhyay
+        MBBS, MD, MPHIL
+        Cancer Specialist
+        Visiting Hour: 6pm to 10pm (Closed: Saturday)
+        Room No: 204
+
+      5.Prof. Dr. Kazi Manzur Kader
+        MBBS, DMRT, Msc, FACP, FRCP (Glasgow)
+        Cancer Specialist
+        Visiting Hour: 6pm to 10pm (Closed: Saturday)
+        Room No: 205
+
+
